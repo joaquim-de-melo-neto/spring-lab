@@ -1,0 +1,14 @@
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/SimpleJndiHelper.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/account/AccountTests.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/TestInfrastructureJndiConfig.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/StubRewardRepository.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/TestInfrastructureConfig.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/StubAccountRepository.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/TestInfrastructureLocalConfig.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/LoggingBeanPostProcessor.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/RewardNetworkTests.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/joaquim/Projetos/lab/24-test/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java

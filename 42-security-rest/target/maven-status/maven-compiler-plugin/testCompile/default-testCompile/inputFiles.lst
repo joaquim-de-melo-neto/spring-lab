@@ -1,0 +1,5 @@
+/home/joaquim/Projetos/lab/42-security-rest/src/test/java/accounts/web/AccountControllerTests.java
+/home/joaquim/Projetos/lab/42-security-rest/src/test/java/accounts/web/AccountControllerCustomUserDetailsServiceTests.java
+/home/joaquim/Projetos/lab/42-security-rest/src/test/java/accounts/services/AccountServiceMethodSecurityTest.java
+/home/joaquim/Projetos/lab/42-security-rest/src/test/java/accounts/client/AccountClientTests.java
+/home/joaquim/Projetos/lab/42-security-rest/src/test/java/accounts/web/AccountControllerCustomAuthenticationProviderTests.java

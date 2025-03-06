@@ -1,0 +1,6 @@
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/config/RestSecurityConfig.java
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/accounts/security/CustomUserDetailsService.java
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/accounts/services/AccountService.java
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/accounts/RestWsApplication.java
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/accounts/web/AccountController.java
+/home/joaquim/Projetos/lab/42-security-rest-solution/src/main/java/accounts/security/CustomAuthenticationProvider.java

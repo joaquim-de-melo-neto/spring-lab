@@ -1,0 +1,14 @@
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/SystemTestRequiresNewConfig.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/account/AccountTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkPropagationTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/SystemTestConfig.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/home/joaquim/Projetos/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkSideEffectTests.java

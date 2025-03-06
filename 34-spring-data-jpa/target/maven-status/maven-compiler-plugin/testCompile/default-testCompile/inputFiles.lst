@@ -1,0 +1,8 @@
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/account/AccountTests.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubRewardRepository.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/RewardNetworkTests.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/home/joaquim/Projetos/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubAccountRepository.java

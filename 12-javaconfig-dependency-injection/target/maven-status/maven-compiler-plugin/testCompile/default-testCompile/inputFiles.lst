@@ -1,0 +1,6 @@
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/rewards/internal/StubRewardRepository.java
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/rewards/internal/StubAccountRepository.java
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/config/RewardsConfigTests.java
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/rewards/TestInfrastructureConfig.java
+/home/joaquim/Projetos/lab/12-javaconfig-dependency-injection/src/test/java/rewards/internal/RewardNetworkImplTests.java
