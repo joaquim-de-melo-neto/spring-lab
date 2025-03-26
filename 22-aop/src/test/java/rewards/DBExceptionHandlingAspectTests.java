@@ -42,8 +42,7 @@ public class DBExceptionHandlingAspectTests {
         //   message on the console AND the console output assertion (below)
         //   should succeed.
 
-        if (TestConstants.CHECK_CONSOLE_OUTPUT) {
+        
             assertThat(capture.toString(), containsString(DBExceptionHandlingAspect.EMAIL_FAILURE_MSG));
-        }
     }
 }
