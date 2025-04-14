@@ -16,7 +16,10 @@ import rewards.AccountContribution;
 import rewards.Dining;
 import rewards.RewardConfirmation;
 import rewards.internal.account.Account;
+
+import org.springframework.context.annotation.Profile;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
+import org.springframework.stereotype.Repository;
 
 import common.money.MonetaryAmount;
 import common.money.Percentage;
@@ -25,6 +28,8 @@ import common.money.Percentage;
  * Tests the JDBC reward repository with a test data source to verify data access and relational-to-object mapping
  * behavior works as expected.
  */
+@Repository
+@Profile("jdbc")
 public class JdbcRewardRepositoryTests {
 
 	private JdbcRewardRepository repository;
