@@ -1,0 +1,60 @@
+# Created at 2025-03-26T15:56:11.135
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:386)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2025-03-26T15:56:20.965
+Unexpected IOException with stream: INFO : o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@172f4514, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7df6d663, org.springframework.security.web.context.SecurityContextPersistenceFilter@681c0ae6, org.springframework.security.web.header.HeaderWriterFilter@51c65a43, org.springframework.security.web.authentication.logout.LogoutFilter@1416ff46, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@226de93c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5ed5b321, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d54d0f5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@13d019a4, org.springframework.security.web.session.SessionManagementFilter@7634f2b, org.springframework.security.web.access.ExceptionTranslationFilter@477021ee, org.springframework.security.web.access.intercept.AuthorizationFilter@531ec978]
+
+
+# Created at 2025-03-26T15:56:24.487
+Unexpected IOException with stream: INFO : o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+
+
+# Created at 2025-03-26T15:56:25.387
+Unexpected IOException with stream: DEBUG: _.s.web.servlet.HandlerMapping.Mappings - 
+	a.w.AccountController:
+	{DELETE [/accounts/{accountId}/beneficiaries/{beneficiaryName}]}: removeBeneficiary(long,String)
+	{GET [/accounts]}: accountSummary()
+	{GET [/accounts/{id}]}: accountDetails(int)
+	{POST [/accounts]}: createAccount(Account)
+	{GET [/authorities]}: getAuthoritiesForUser(String)
+	{GET [/accounts/{accountId}/beneficiaries/{beneficiaryName}]}: getBeneficiary(int,String)
+	{POST [/accounts/{accountId}/beneficiaries]}: addBeneficiary(long,String)
+
+
+# Created at 2025-03-26T15:56:25.438
+Unexpected IOException with stream: DEBUG: _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+
+
+# Created at 2025-03-26T15:56:25.582
+Unexpected IOException with stream: DEBUG: _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+
+
+# Created at 2025-03-26T15:56:25.683
+Unexpected IOException with stream: DEBUG: _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+
+
+# Created at 2025-03-26T15:56:26.944
+Unexpected IOException with stream: INFO : o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+
+
+# Created at 2025-03-26T15:56:26.945
+Unexpected IOException with stream: INFO : o.s.t.web.servlet.TestDispatcherServlet - Initializing Servlet ''
+
+
+# Created at 2025-03-26T15:56:26.948
+Unexpected IOException with stream: INFO : o.s.t.web.servlet.TestDispatcherServlet - Completed initialization in 2 ms
+
+
+# Created at 2025-03-26T15:56:27.331
+Unexpected IOException with stream: INFO : a.w.AccountControllerCustomAuthenticationProviderTests - Started AccountControllerCustomAuthenticationProviderTests in 22.282 seconds (JVM running for 48.679)
+
+

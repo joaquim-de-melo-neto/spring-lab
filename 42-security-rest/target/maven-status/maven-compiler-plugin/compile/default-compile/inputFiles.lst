@@ -1,0 +1,6 @@
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/accounts/security/CustomAuthenticationProvider.java
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/accounts/web/AccountController.java
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/accounts/RestWsApplication.java
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/accounts/security/CustomUserDetailsService.java
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/config/RestSecurityConfig.java
+/home/joaquim/Downloads/core-spring-labfiles/lab/42-security-rest/src/main/java/accounts/services/AccountService.java
